@@ -5,9 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a web3 and blockchain enthusiast.\
-🎓 &nbsp;I'm currently in my freshmen year studying Computer Science and Engineering at Anna University.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💡 &nbsp;I am a web3 and blockchain Developer.\
+🎓 &nbsp;I'm currently in my sophomore year studying Computer Science and Engineering at Anna University.\
 💬 &nbsp;Feel free to reach out to collaborate, or just for some interesting discussion.\
 ✉️ &nbsp;You can DM me in [Twitter](https://twitter.com/gathin_twt)!
 
