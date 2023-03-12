@@ -15,7 +15,3 @@ Full Stack Web3 Developer<br><br>As a 19-year-old contrarian and passionate deve
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gathin23&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=gathin_twt)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
