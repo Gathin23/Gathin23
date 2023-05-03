@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web3 Developer<br><br>As a 19-year-old contrarian and passionate developer, I specialize in Web3 development, with a keen interest in blockchain technology, startups, and finance. <br><br>My focus is on full-stack blockchain development, and I approach my work with a hustler's mindset. With my deep understanding of the Web3 space, I am always looking for innovative solutions and unique perspectives to drive growth and create value.<br>
+Full Stack Web3 Developer<br><br>As a 19-year-old contrarian and passionate developer, and currently building Coherse a platform to connect developers with mentors in Metaverse <br><br>I am a full-stack  developer and I am always looking for innovative solutions and unique perspectives to drive growth and create value.<br>
 
 
 ## 🌐 Socials:
