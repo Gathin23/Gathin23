@@ -7,7 +7,6 @@
 
 📈 Let's connect and discuss how we can revolutionize the world through blockchain technology! Feel free to explore my repositories and don't hesitate to reach out for exciting collaborations.
 
-📫 You can reach me via [Email](gathint@gmail.com) or find me on [LinkedIn](www.linkedin.com/in/gathint).
 <br>
 
 
