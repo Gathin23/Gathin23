@@ -1,5 +1,14 @@
 # 💫 About Me:
-Full Stack Web3 Developer<br><br>As a 19-year-old contrarian and passionate developer, and currently building Coherse a platform to connect developers with mentors in Metaverse <br><br>I am a full-stack  developer and I am always looking for innovative solutions and unique perspectives to drive growth and create value.<br>
+👋 Hello! I'm Gathin, a passionate Full Stack Blockchain Developer. I love to explore the decentralized technologies and create innovative solutions using blockchain, smart contracts, and dApps.<br>
+
+💼 Currently, I'm working on various blockchain projects, focusing on end-to-end development, from designing smart contracts to building blockchain protocols.<br>
+
+🔧 My tech stack includes Solidity, Ethereum, Ether.js, Truffle, React.js, Node.js, and more. Always open to learning new technologies and continuously improving my skills.
+
+📈 Let's connect and discuss how we can revolutionize the world through blockchain technology! Feel free to explore my repositories and don't hesitate to reach out for exciting collaborations.
+
+📫 You can reach me via [Email](gathint@gmail.com) or find me on [LinkedIn](www.linkedin.com/in/gathint).
+<br>
 
 
 ## 🌐 Socials:
