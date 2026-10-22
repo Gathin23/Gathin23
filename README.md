@@ -17,9 +17,9 @@ On 17 October 2026 I gave Claude Code my parents' TV model number because it was
 Since launch:
 
 <!-- STATS:START -->
-- **20,000+ stars, 2,100+ forks, 270+ contributors and 520+ merged PRs**, all since the repo went up on 17 October 2026.
-- **83 articles from 22 countries**, including [TechCrunch](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/), [Mashable](https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup), [TechRadar](https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on), [Tom's Guide](https://www.tomsguide.com/ai/people-are-using-ai-to-turn-their-smart-tvs-into-dumb-tvs-and-you-might-want-to-do-the-same), [Android Authority](https://www.androidauthority.com/android-tv-vibe-hacking-remove-ads-bloatware-3725338/) and [XDA](https://www.xda-developers.com/people-are-now-vibe-coding-their-smart-tvs-to-strip-them-of-ads-and-unwanted-features/). [Full press list](https://github.com/Gathin23/cleanyourtv/blob/main/docs/PRESS.md).
-- **213 TV models from 63 brands** tested by the community, and a 445 KB launcher in 24 languages.
+- **21,000+ stars, 2,300+ forks, 290+ contributors and 590+ merged PRs**, all since the repo went up on 17 October 2026.
+- **85 articles from 23 countries**, including [TechCrunch](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/), [Mashable](https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup), [TechRadar](https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on), [Tom's Guide](https://www.tomsguide.com/ai/people-are-using-ai-to-turn-their-smart-tvs-into-dumb-tvs-and-you-might-want-to-do-the-same), [Android Authority](https://www.androidauthority.com/android-tv-vibe-hacking-remove-ads-bloatware-3725338/) and [XDA](https://www.xda-developers.com/people-are-now-vibe-coding-their-smart-tvs-to-strip-them-of-ads-and-unwanted-features/). [Full press list](https://github.com/Gathin23/cleanyourtv/blob/main/docs/PRESS.md).
+- **227 TV models from 64 brands** tested by the community, and a 470 KB launcher in 25 languages.
 - Live on [Product Hunt](https://www.producthunt.com/products/cleanyourtv) and at [cleanyour.tv](https://cleanyour.tv).
 <!-- STATS:END -->
 
