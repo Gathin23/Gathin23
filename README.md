@@ -17,7 +17,7 @@ On 17 October 2026 I gave Claude Code my parents' TV model number because it was
 Since launch:
 
 <!-- STATS:START -->
-- **24,000+ stars, 2,700+ forks, 330+ contributors and 700+ merged PRs**, all since the repo went up on 17 October 2026.
+- **26,000+ stars, 2,800+ forks, 330+ contributors and 700+ merged PRs**, all since the repo went up on 17 October 2026.
 - **187 articles from 31 countries**, including [TechCrunch](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/), [Mashable](https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup), [TechRadar](https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on), [Tom's Guide](https://www.tomsguide.com/ai/people-are-using-ai-to-turn-their-smart-tvs-into-dumb-tvs-and-you-might-want-to-do-the-same), [Android Authority](https://www.androidauthority.com/android-tv-vibe-hacking-remove-ads-bloatware-3725338/) and [XDA](https://www.xda-developers.com/people-are-now-vibe-coding-their-smart-tvs-to-strip-them-of-ads-and-unwanted-features/). [Full press list](https://github.com/Gathin23/cleanyourtv/blob/main/docs/PRESS.md).
 - **243 TV models from 69 brands** tested by the community, and a 474 KB launcher in 25 languages.
 - Live on [Product Hunt](https://www.producthunt.com/products/cleanyourtv) and at [cleanyour.tv](https://cleanyour.tv).
